@@ -1,3 +1,5 @@
+'use strict';
+
 var movies = [
         {
           id: 1,
